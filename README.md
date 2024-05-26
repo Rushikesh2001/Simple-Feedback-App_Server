@@ -13,7 +13,7 @@ This project is designed for the user's to provide the issues faced by them to t
 
 Here's how you can quickly install and run this project.
 
-1. 1. Clone this project
+1. Clone this project
 2. Setup node.js environment in your machine by downloading the software - https://nodejs.org/en/download
 3. Open the cloned project in a code editor(I have used VS code). You can use any editor but if you want to download VS code go to this link - https://code.visualstudio.com/download
 4. Open terminal from navigation bar
